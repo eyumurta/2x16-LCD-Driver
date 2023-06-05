@@ -1,0 +1,6 @@
+../Core/LCD_Driver/Src/LCD.c:17:6:LCD_Write_Command	16	static
+../Core/LCD_Driver/Src/LCD.c:36:6:LCD_Put_Char	16	static
+../Core/LCD_Driver/Src/LCD.c:63:6:LCD_Goto	16	static
+../Core/LCD_Driver/Src/LCD.c:86:6:LCD_Clear	8	static
+../Core/LCD_Driver/Src/LCD.c:100:6:LCD_Put_String	24	static
+../Core/LCD_Driver/Src/LCD.c:115:6:LCD_Init	8	static
